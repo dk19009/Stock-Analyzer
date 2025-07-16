@@ -1,6 +1,6 @@
 # 📈 Stock Price Analyzer
 
-A real-time stock data dashboard built with **Python**, **Pandas**, and **Streamlit**, featuring price visualization, moving averages, daily return plots, and interactive stock comparisons.
+A real-time stock data dashboard built with **Python**, **Pandas**, and **Streamlit**, featuring price visualization, moving averages, and daily return plots.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-your-repo.streamlit.app)
 
