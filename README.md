@@ -55,17 +55,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Screenshots
-
-| Dashboard View            | Analysis View            |
-|---------------------------|---------------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Chart](screenshots/graph.png) |
-
-> Be sure to place real image files in the `/screenshots/` folder.
-
 ---
 
 ## 🌐 Live Demo
