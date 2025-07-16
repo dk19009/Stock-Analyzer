@@ -2,7 +2,7 @@
 
 A real-time stock data dashboard built with **Python**, **Pandas**, and **Streamlit**, featuring price visualization, moving averages, and daily return plots.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-your-repo.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-username-your-repo.streamlit.app](https://stock-analyzer-jgdczzmzeqe9lpulyu4gsq.streamlit.app/))
 
 ---
 
@@ -60,8 +60,8 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 Try the app here:  
-👉 **[https://your-username-your-repo.streamlit.app](https://your-username-your-repo.streamlit.app)**
-
+👉 [**[https://your-username-your-repo.streamlit.app]([https://your-username-your-repo.streamlit.app](https://stock-analyzer-jgdczzmzeqe9lpulyu4gsq.streamlit.app/))**
+](https://stock-analyzer-jgdczzmzeqe9lpulyu4gsq.streamlit.app/)
 ---
 
 ## License
